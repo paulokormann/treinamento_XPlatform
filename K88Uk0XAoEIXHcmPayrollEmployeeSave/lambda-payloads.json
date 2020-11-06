@@ -1,0 +1,350 @@
+{
+    "K88Uk0XAoEIXHcmPayrollEmployeeSave": {
+        "lambda": {
+            "headers": {
+                "X-Senior-Token": "Bearer 361676623b35b8413ccad84e00d7bf7d"
+            },
+            "body": {
+                "sheetContract": {
+                    "admissionOriginType": {
+                        "key": "TAX_ACTION",
+                        "value": "Decorrente de Ação Fiscal (celetista)"
+                    },
+                    "hireDate": "2020-11-01",
+                    "registrationNumber": "1234",
+                    "hireType": {
+                        "key": "FirstJob",
+                        "value": "1 - Primeiro Emprego"
+                    },
+                    "situation": {
+                        "tableId": "A0D6FF6CA5EB41E08803CC2EB6F9F0CC",
+                        "name": "1 - Trabalhando",
+                        "Code": "1",
+                        "Name": "Trabalhando",
+                        "Trackingtype": "TYPE_01_WORKING",
+                        "ReturnExamination": "false",
+                        "SituationDaysJustified": "0",
+                        "ESocialReasonType": "TYPE_0"
+                    },
+                    "movimentationReason": {
+                        "tableId": "0482EEA25CBF4E9691CCF9BD9719DD6B",
+                        "name": "1 - Admissão",
+                        "MovimentationreasonCode": "1",
+                        "MovimentationreasonNameI18n": "Admissão"
+                    },
+                    "eSocialAdmissionType": {
+                        "key": "TYPE_01",
+                        "value": "Admissão"
+                    },
+                    "categoryESocial": {
+                        "key": "Category_101",
+                        "value": "101 - Empregado - Geral, inclusive o empregado público da administração direta ou indireta contratado pela CLT"
+                    },
+                    "eSocialStartDate": "2020-11-01",
+                    "sefipCategoryType": {
+                        "key": "TYPE_01",
+                        "value": "Empregado"
+                    },
+                    "sefipStartDate": "2020-11-01",
+                    "unemploymentInsuranceType": {
+                        "key": "NOT_CONSULTED",
+                        "value": "Não consultado"
+                    },
+                    "appearsinRais": "false",
+                    "actingType": {
+                        "tableId": "4A9A9D65DA444515B632642E416D32B7",
+                        "name": "1 - Atuação Principal",
+                        "ActingtypeCode": "1",
+                        "ActingtypeNameI18n": "Atuação Principal"
+                    },
+                    "employeeType": {
+                        "key": "EMPLOYEE",
+                        "value": "1 - Colaborador"
+                    },
+                    "employmentRelationship": {
+                        "tableId": "ADF77D2738A44FC9A9DCA30BCF21C9C9",
+                        "name": "10 - Trb.Urb,Emp.Jur,CLT",
+                        "EmploymentRelationshipCode": "10",
+                        "EmploymentRelationshipNameI18n": "Trb.Urb,Emp.Jur,CLT",
+                        "EmploymentRelationshipRais": "Type_10"
+                    },
+                    "employmentRelationshipStartDate": "2020-11-01",
+                    "endDate": "2020-11-01",
+                    "customFieldsEmployee": [
+                        {
+                            "field": "USU_CARCON",
+                            "value": null
+                        }
+                    ],
+                    "customFieldsHistoricalExpenseNature": []
+                },
+                "sheetDocument": {
+                    "cpfNumber": "52775631053",
+                    "pisNumber": "12203703654",
+                    "ctpsNumber": "000675421",
+                    "ctpsSerie": "654",
+                    "ctpsState": {
+                        "tableId": "A052E9C2D9714B9D8B706B67E3A301E4",
+                        "name": "Santa Catarina"
+                    },
+                    "ctpsIssuanceDate": "1990-01-01",
+                    "rgNumber": "99999",
+                    "rgIssuer": "SSP",
+                    "rgState": {
+                        "tableId": "A052E9C2D9714B9D8B706B67E3A301E4",
+                        "name": "Santa Catarina"
+                    },
+                    "rgIssuanceDate": "1990-01-01",
+                    "customFieldsRg": []
+                },
+                "sheetFinancial": {
+                    "payType": {
+                        "key": "Monthly",
+                        "value": "Mensal"
+                    },
+                    "payMode": {
+                        "key": "Money",
+                        "value": "Dinheiro"
+                    },
+                    "receivesThirteenthSalary": "true",
+                    "receivesSalaryAdvance": "false",
+                    "optingForFGTS": "false",
+                    "customFieldsAccount": [],
+                    "useHistoricalBankAccount": false,
+                    "hireDate": "1900-01-01"
+                },
+                "sheetInitial": {
+                    "company": {
+                        "tableId": "B050A6FF589346F59CDFB1A445DEFA54",
+                        "name": "1 - Demonstra Ind.& Com. Têxtil S/A",
+                        "CompanyCode": "1",
+                        "CompanyCompanyname": "Demonstra Ind.& Com. Têxtil S/A"
+                    },
+                    "contractNationality": {
+                        "key": "National",
+                        "value": "1 - Nacional"
+                    },
+                    "contractType": {
+                        "key": "Employee",
+                        "value": "1 - Empregado"
+                    },
+                    "person": {
+                        "tableId": "9D9B48A0A8154D438F5048026E1F25F8",
+                        "name": "Adriana Conceição",
+                        "PersonName": "Adriana Conceição",
+                        "PersonBirthday": "22/02/1975"
+                    }
+                },
+                "sheetPersona": {
+                    "attachment": {
+                        "attachmentId": "618463148B264EA98B1E3D3179DCA247",
+                        "fileId": "CF18E28C252344AA84994EFCE2C07ECA/1_1_6.bmp",
+                        "thumbnail": false
+                    },
+                    "nickname": "AP",
+                    "gender": {
+                        "key": "Female",
+                        "value": "Feminino"
+                    },
+                    "birthday": "1975-02-22",
+                    "maritalStatus": {
+                        "key": "Married",
+                        "value": "2 - Casado"
+                    },
+                    "degreeOfEducation": {
+                        "tableId": "40C6F3716C664459880F01D288EE6469",
+                        "name": "7 - 2º Grau Completo"
+                    },
+                    "nationality": {
+                        "tableId": "0AEB22EAEA624B1E8A396895ECC91509",
+                        "name": "10 - Brasileiro"
+                    },
+                    "race": {
+                        "key": "White",
+                        "value": "1 - Branca"
+                    },
+                    "country": {
+                        "tableId": "40CB57127013437C86684314E697D92B",
+                        "name": "Brasil"
+                    },
+                    "cep": "89010300",
+                    "state": {
+                        "tableId": "A052E9C2D9714B9D8B706B67E3A301E4",
+                        "name": "Santa Catarina"
+                    },
+                    "city": {
+                        "tableId": "66BAC25376DD45F8893AD0569B0C6AC4",
+                        "name": "BLUMENAU"
+                    },
+                    "addressType": {
+                        "key": "Street",
+                        "value": "Rua"
+                    },
+                    "addressName": "Rua Achiles Jacobsen",
+                    "addressNumber": "217",
+                    "phones": [
+                        {
+                            "id": "947E78FB1081437D9625B91088CB48DD",
+                            "phoneType": {
+                                "key": "Personal",
+                                "value": "1 - Pessoal/Residencial"
+                            },
+                            "countryCode": "55",
+                            "localCode": "47",
+                            "number": "3228822",
+                            "extention": null
+                        }
+                    ],
+                    "emails": [
+                        {
+                            "id": "A394280C93924188B1AB2D55299C4B46",
+                            "email": "adriana@email.com.br",
+                            "emailType": {
+                                "key": "Personal",
+                                "value": "1 - E-mail Pessoal"
+                            }
+                        }
+                    ],
+                    "isDisability": "false",
+                    "customFieldsPerson": []
+                },
+                "sheetPlace": {
+                    "workstationGroup": {
+                        "tableId": "423E09E8AF7E40AAA991B1590257DFD6",
+                        "name": "ADM002 - Administrador de Compras"
+                    },
+                    "branch": {
+                        "tableId": "027AB06763E5464ABDAAB4D4A1196A7D",
+                        "name": "1 - Demonstra S/A - Matriz"
+                    },
+                    "costCenter": {
+                        "tableId": "F5C0999EA7A24A8AAF436455F639A329",
+                        "name": "14 - Administrativo"
+                    },
+                    "department": {
+                        "tableId": "3427D876FB0841899053B36D6AD1D801",
+                        "name": "1.02 - Administração"
+                    },
+                    "jobPosition": {
+                        "tableId": "64644EDE7E4F47DF99EE3FB168BEF188",
+                        "name": "11 - Auxiliar Administrativo"
+                    },
+                    "workstationGroupStartDate": "2020-11-01",
+                    "branchStartDate": "2020-11-01",
+                    "costCenterStartDate": "2020-11-01",
+                    "departmentStartDate": "2020-11-01",
+                    "jobPositionStartDate": "2020-11-01",
+                    "customFieldsHistoricalWorkstation": [],
+                    "customFieldsHistoricalCostCenter": [],
+                    "customFieldsHistoricalJobPosition": [],
+                    "customFieldsHistoricalCompanyBranch": [],
+                    "customFieldsHistoricalDepartment": []
+                },
+                "sheetSalary": {
+                    "salaryType": {
+                        "key": "Monthly",
+                        "value": "Mensalista"
+                    },
+                    "wageScale": {
+                        "tableId": "DA5B020A995C4C17B73D346F4EC9B516",
+                        "name": "Demonstração",
+                        "WagescaleName": "Demonstração"
+                    },
+                    "wageClass": {
+                        "tableId": "92BDB0FC13DD443B98CD53C99D72E00D",
+                        "name": "D",
+                        "WageclassName": "D"
+                    },
+                    "wageLevel": {
+                        "tableId": "62CF96B2F2D5445CB86C4667ADE39D1D",
+                        "name": "2",
+                        "WagelevelName": "2"
+                    },
+                    "salary": "1032.91",
+                    "customFieldsHistoricalSalary": []
+                },
+                "sheetSyndicate": [
+                    {
+                        "syndicate": {
+                            "tableId": "61A2E2CCE6CE4882909CB974D29395FE",
+                            "name": "1 - Sind. Indústria Blumenau",
+                            "SyndicateCode": "1",
+                            "SyndicateNameI18n": "Sind. Indústria Blumenau"
+                        },
+                        "isMainSyndicate": true,
+                        "isUnionized": false,
+                        "isAssistanceFee": false,
+                        "isCosting": false,
+                        "isReversion": false,
+                        "syndicateStartDate": "2020-11-01"
+                    }
+                ],
+                "sheetWorkSchedule": {
+                    "workshiftStartDate": "2020-11-01",
+                    "workshift": {
+                        "tableId": "7B859F78BE54488E83A2B64006E51B3A",
+                        "name": "1 - 08:00 1200-1330 1800/Hor.Rígid",
+                        "WorkshiftCode": "1",
+                        "WorkshiftDescriptionI18n": "08:00 1200-1330 1800/Hor.Rígid",
+                        "WorkshiftWorkshiftType": "Permanent"
+                    },
+                    "workshiftGroup": {
+                        "tableId": "329E09676E4C49D68C8846852B4C40DA",
+                        "name": "1",
+                        "WorkshiftGroupCode": "1",
+                        "WorkshiftGroupWorkshift": "7B859F78BE54488E83A2B64006E51B3A"
+                    },
+                    "customFieldsHistoricalWorkshift": []
+                },
+                "sheetOtherContract": {
+                    "otherContractType": {
+                        "key": "SINGLE_CONTRACT",
+                        "value": "Contrato único"
+                    },
+                    "customFieldsOtherContract": []
+                },
+                "sheetEntries": {},
+                "sheetComplement": {
+                    "retirementType": null,
+                    "retirementDate": null,
+                    "taxExemption": null,
+                    "movementSefipRetirement": null,
+                    "transportationVoucherScale": null,
+                    "pointEmbarkation": null,
+                    "transportationVoucherStartDate": null,
+                    "healthAndSafety": {
+                        "lastMedicalExaminationDate": null,
+                        "nextMedicalExaminationDate": null
+                    },
+                    "healthPlan": {
+                        "healthPlanType": null,
+                        "healthPlanCode": null,
+                        "registrationCode": null,
+                        "inclusionDate": null,
+                        "exclusionDate": null,
+                        "healthplanCode": null
+                    },
+                    "qualificationStructure": {
+                        "qualification": null,
+                        "wagescale": null,
+                        "wageclass": null,
+                        "wagelevel": null
+                    },
+                    "badge": null,
+                    "issueDotCard": {
+                        "key": "No",
+                        "value": "Não"
+                    },
+                    "controlPoint": {
+                        "key": "TYPE_4",
+                        "value": "Não Conta"
+                    },
+                    "deleteClockingEventType": null,
+                    "customFieldsHistoricalTransportationVoucherScale": [],
+                    "customFieldsRetirement": [],
+                    "healthPlanType": null
+                }
+            }
+        }
+    }
+}
