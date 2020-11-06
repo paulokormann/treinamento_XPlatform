@@ -47,7 +47,7 @@ exports.handler = async event => {
             let wshiftResp = await instance.get(`/hcm/payroll/entities/workshift/${body.sheetWorkSchedule.workshift.tableId}`);
             
             if((wshiftResp.data.code > 10) || (wshiftResp.data.workshiftType !== 'Permanent')) {
-                return sendRes(400,'Escalasde empregados devem estar entre 1 e 10 e devem ser do tipo Permanente');
+                return sendRes(400,'Escalas de empregados devem estar entre 1 e 10 e devem ser do tipo Permanente');
             }
 
         } catch (error) {
